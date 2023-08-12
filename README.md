@@ -83,6 +83,34 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
+<p align="left">
+  <a href="https://github.com/way2tushar?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/way2tushar">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=way2tushar&theme=radical&border=7F3FBF&background=0D1117" alt="way2tushar's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/way2tushar">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=way2tushar&theme=radical" alt="way2tushar's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/way2tushar"><img alt="way2tushar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=way2tushar&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/way2tushar"><img alt="way2tushar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=way2tushar&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
 ![way2tushar's Graph](https://github-readme-activity-graph.vercel.app/graph?username=way2tushar&custom_title=way2tushar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <!--
