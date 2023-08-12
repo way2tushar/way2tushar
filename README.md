@@ -63,7 +63,7 @@
 
 ## Use To Code
 
-<img align="left" width="350" src="/assets/unity.gif" alt="way2tushar" />
+<img align="left" width="150" src="/assets/unity.gif" alt="way2tushar" />
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
