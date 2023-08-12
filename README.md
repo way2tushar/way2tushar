@@ -12,7 +12,7 @@
     <br>
     「 People know me as way2tushar. I am 
     <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;Unity3D developer from <b>Bangladesh.</b> 」
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unity3D developer from <b>Bangladesh.</b> 」
     <br>
     <br>
   </samp>
