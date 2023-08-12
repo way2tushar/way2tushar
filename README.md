@@ -10,9 +10,9 @@
   <samp>
     <a href="https://www.google.com/search?q=way2tushar">「 Google Me 」</a>
     <br>
-    「 People know me as way2tushar
+    「 People know me as way2tushar. I am 
     <br>
-    I am Unity3D developer from <b>Bangladesh</b> 」
+    Unity3D developer from <b>Bangladesh</b> 」
     <br>
     <br>
   </samp>
