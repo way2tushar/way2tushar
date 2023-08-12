@@ -1,3 +1,11 @@
+<a href="https://komarev.com/ghpvc/?username=way2tushar">
+  <img align="right" src="https://komarev.com/ghpvc/?username=way2tushar&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
+
+
+
+
 ### Hi there 👋
 
 <!--
