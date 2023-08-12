@@ -8,7 +8,7 @@
 
 <p align="center"> 
   <samp>
-    <p>People know me as way2tushar</p>
+    People know me as way2tushar
     <a href="https://www.google.com/search?q=way2tushar">「 Google Me 」</a>
     <br>
     「 I am Unity3D developer from <b>Bangladesh</b> 」
