@@ -1,12 +1,24 @@
-<a href="https://komarev.com/ghpvc/?username=way2tushar">
-  <img align="right" src="https://komarev.com/ghpvc/?username=way2tushar&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://way2tushar.com">Nazmul Islam</a></b>
+        </samp>
+</h3>
+
+
+<p align="center"> 
+  <samp>
+    <p>People know me as way2tushar</p>
+    <a href="https://www.google.com/search?q=way2tushar">「 Google Me 」</a>
+    <br>
+    「 I am Unity3D developer from <b>Bangladesh</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 
 
 
-
-
-### Hi there 👋
 
 <!--
 **way2tushar/way2tushar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
