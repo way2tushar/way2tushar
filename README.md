@@ -83,7 +83,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
+![way2tushar's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=way2tushar&custom_title=way2tushar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <!--
 **way2tushar/way2tushar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
