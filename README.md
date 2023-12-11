@@ -48,7 +48,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="way2tushar" />
+ <img align="right" width="350" src="/assets/programmer-way2tushar.webm" alt="way2tushar" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
